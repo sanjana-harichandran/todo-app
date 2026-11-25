@@ -1,5 +1,3 @@
-# todo-app
-
 #To-Do app
 This application prints a numbered to-do list.
 
